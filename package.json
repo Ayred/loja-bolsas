@@ -2,5 +2,29 @@
   "dependencies": {
     "bootstrap": "^5.2.2",
     "bootstrap-icons": "^1.9.1"
-  }
+  },
+
+  "engines": {
+    "node": "18.11.0"
+  },
+
+  "name": "loja-bolsas",
+  "description": "This is a little site build with bootstrap as a project for descomplica.",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayred/loja-bolsas.git"
+  },
+  "author": "Ayred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayred/loja-bolsas/issues"
+  },
+  "homepage": "https://github.com/Ayred/loja-bolsas#readme"
+  
 }
