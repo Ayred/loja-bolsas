@@ -8,6 +8,10 @@
     "node": "18.11.0"
   },
 
+  "scripts": {
+  "start": "node index.html"
+},
+
   "name": "loja-bolsas",
   "description": "This is a little site build with bootstrap as a project for descomplica.",
   "version": "1.0.0",
