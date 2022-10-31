@@ -2,8 +2,5 @@
   "dependencies": {
     "bootstrap": "^5.2.2",
     "bootstrap-icons": "^1.9.1"
-  },
-  "scripts": {
-    "start": "node index.html"
   }
 }
